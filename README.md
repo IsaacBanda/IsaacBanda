@@ -1,4 +1,4 @@
-# <samp>Isaac Banda</samp><img src="https://github.com/IsaacBanda/IsaacBanda/blob/main/assets/mario_hello_big.gif" width="30px">
+# <samp>Isaac Banda</samp><img src="https://github.com/IsaacBanda/IsaacBanda/blob/main/assets/mario_hello_big.gif" width="50px">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/isaac-banda-498910114/)](https://www.linkedin.com/in/isaac-banda-498910114/)
