@@ -12,4 +12,13 @@
 
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
-- ⚽ &nbsp; <samp>Passionate about football.</samp>
+
+## Skills
+
+- Languages - C++, Java, Python
+- Libraries & Frameworks - Flutter, Spring, Structs
+- Areas for interests - `Mobile App Development`,`Web Development`, `Frontend Development`, `UI Design/Development`, `Components & Design Systems`, `Cloud Technologies`, `GitHub Actions`
+
+
+
+
