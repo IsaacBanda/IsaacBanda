@@ -10,15 +10,14 @@
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
-- 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
-- ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
+- 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</savmp>
+- ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>  
 
 ## Skills
+ <samp>- Languages - `C++`, `Java`, `Python` </samp>  
+ <samp>- Libraries & Frameworks - `Flutter`, `Spring`, `Structs`</samp>  
+ <samp>- Areas for interests - `Mobile App Development`,`Web Development`, `Frontend Development`, `UI Design/Development`, `Components & Design Systems`, `Cloud Technologies`, `GitHub Actions` `Backend Development`
 
-- Languages - C++, Java, Python
-- Libraries & Frameworks - Flutter, Spring, Structs
-- Areas for interests - `Mobile App Development`,`Web Development`, `Frontend Development`, `UI Design/Development`, `Components & Design Systems`, `Cloud Technologies`, `GitHub Actions`
-
-
+</samp>  
 
 
