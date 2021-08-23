@@ -6,7 +6,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/IsaacBanda/IsaacBanda/blob/main/assets/earth.gif" width="22px">
 
-<samp>I'm Isaac Banda a Software Engineer from Zambian passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Isaac Banda a Software Engineer from Zambia passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 
 - 👯 &nbsp; <samp>Open to collaborate on projects that are using Flutter.</samp>&nbsp; 💻 &nbsp; 🚀
