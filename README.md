@@ -16,9 +16,9 @@
 ## Skills
  <samp>- Languages - `C++`, `Java`, `Python` </samp>  
  <samp>- Libraries & Frameworks - `Flutter`, `Spring`, `Structs`</samp>  
- <samp>- Areas for interests - `Mobile App Development`,`Web Development`, `Frontend Development`, `UI Design/Development`, `Components & Design Systems`, `Cloud   Technologies`,<samp>  `GitHub Actions` `Backend Development` </samp> 
+ <samp>- Areas for interests - `Mobile App Development`,`Web Development`, `Frontend Development`, `UI Design/Development`, `Components & Design Systems`, `Cloud   Technologies`,<samp>  `GitHub Actions` `Backend Development` ,`AI and Machine Learning` </samp> 
 </samp>  
-
+ 
 
 
 ## 🚀💻 Technologies & Tools
